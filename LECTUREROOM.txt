@@ -1,0 +1,7 @@
+Name: LECTUREROOM
+Column 1 : BUILDNO
+Column 1 Data Type : varchar(10)
+Column 2 : ROOMNO
+Column 2 Data Type : varchar(10)
+PK : BUILDNO, ROOMNO
+Not NULL : BUILDNO, ROOMNO

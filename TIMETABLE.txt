@@ -1,0 +1,9 @@
+Name: TIMETABLE
+Column 1 : NO
+Column 1 Data Type : integer
+Column 2 : START_TIME
+Column 2 Data Type : time
+Column 3 : END_TIME
+Column 3 Data Type : time
+PK : START_TIME, END_TIME
+Not NULL : NO, START_TIME, END_TIME

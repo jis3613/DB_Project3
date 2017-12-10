@@ -1,0 +1,11 @@
+Name: COLLEGES
+Column 1 : MAJOR_ID
+Column 1 Data Type : char(4)
+Column 2 : MAJOR_NAME
+Column 2 Data Type : varchar(20)
+Column 3 : COLLEGE_NAME
+Column 3 Data Type : varchar(20)
+Column 4 : CATEGORY
+Column 4 Data Type : varchar(20)
+PK : MAJOR_ID
+Not NULL : MAJOR_ID, MAJOR_NAME, COLLEGE_NAME, CATEGORY

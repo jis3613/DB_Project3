@@ -1,0 +1,9 @@
+Name: BUILDING
+Column 1 : ABBR_NAME
+Column 1 Data Type : varchar(10)
+Column 2 : NAME
+Column 2 Data Type : varchar(100)
+Column 3 : COLLEGE_NAME
+Column 3 Data Type : varchar(100)
+PK : ABBR_NAME
+Not NULL : ABBR_NAME, NAME

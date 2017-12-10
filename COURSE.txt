@@ -1,0 +1,27 @@
+Name: COURSE
+Column 1 : COURSE_ID
+Column 1 Data Type : integer
+Column 2 : YEAR
+Column 2 Data Type : integer
+Column 3 : SEMESTER
+Column 3 Data Type : integer
+Column 4 : COURSE_ID_PREFIX
+Column 4 Data Type : char(3)
+Column 5 : COURSE_ID_NO
+Column 5 Data Type : char(4)
+Column 6 : DIVISION_NO
+Column 6 Data Type : integer
+Column 7 : COURSE_NAME
+Column 7 Data Type : varchar(100)
+Column 8 : PROF_ID
+Column 8 Data Type : char(10)
+Column 9 : BUILDNO
+Column 9 Data Type : varchar(10)
+Column 10 : ROOMNO
+Column 10 Data Type : varchar(10)
+Column 11 : CREDIT
+Column 11 Data Type : integer
+Column 12 : MAX_ENROLLEES
+Column 12 Data Type : integer
+PK : COURSE_ID
+Not NULL : COURSE_ID,YEAR,SEMESTER,COURSE_ID_PREFIX,COURSE_ID_NO,DIVISION_NO,COURSE_NAME,PROF_ID,BUILDNO,ROOMNO,CREDIT,MAX_ENROLLEES

@@ -1,0 +1,15 @@
+Name: FINALTEST
+Column 1   : NAME
+Column 1 Data Type : varchar(20)
+Column 2 : TIME
+Column 2 Data Type : time
+Column 3 : ID
+Column 3 Data Type : integer
+Column 4 : GRADE
+Column 4 Data Type : numeric(2,1)
+Column 5 : DATE
+Column 5 Data Type : date
+Column 6 : MAJOR_PREFIX
+Column 6 Data Type : char(3)
+pk : NAME, ID
+Not NULL : NAME, ID 

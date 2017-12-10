@@ -1,0 +1,5 @@
+Name: DAY_OF_WEEK
+Column 1 : DAY_OF_WEEK
+Column 1 Data Type : char(4)
+PK : DAY_OF_WEEK
+Not NULL : DAY_OF_WEEK

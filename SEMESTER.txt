@@ -1,0 +1,11 @@
+Name: SEMESTER
+Column 1 : YEAR
+Column 1 Data Type : integer
+Column 2 : SEMESTER
+Column 2 Data Type : integer
+Column 3 : START_DATE
+Column 3 Data Type : date
+Column 4 : END_DATE
+Column 4 Data Type : date
+PK : YEAR, SEMESTER
+Not NULL : YEAR, SEMESTER, START_DATE, END_DATE
